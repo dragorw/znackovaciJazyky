@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified"
+ xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="formulare">
+    <xs:complexType>
+      <xs:sequence>        
+        <xs:element maxOccurs="unbounded" name="formular">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="jmeno" type="xs:string" />
+              <xs:element name="prijmeni" type="xs:string" />
+              <xs:element name="titul" type="xs:string" />
+              <xs:element name="datum_narozeni" type="xs:date" />
+              <xs:element name="rodne_cislo" type="xs:string" />
+              <xs:element name="narodnost" type="xs:string" />
+              <xs:element name="misto_narozeni" type="xs:string" />
+              <xs:element name="misto_bydliste" type="xs:string" />              
+              <xs:element name="PSC" type="xs:string" />
+              <xs:element name="telefon" type="xs:string" />
+              <xs:element name="e-mail" type="xs:string" />
+              <xs:element name="webova_stranka" type="xs:string" />
+              <xs:element name="ridicsky_prukaz" type="xs:string" />              
+              <xs:element name="pocet_deti" type="xs:decimal" />
+              <xs:element name="pocet_aut" type="xs:decimal" />
+              <xs:element name="vzdelani" type="xs:string" />
+              <xs:element name="zamestnani" type="xs:string" />
+              <xs:element name="plat" type="xs:decimal" />
+            </xs:sequence>
+            <xs:attribute name="cislo" type="xs:string" use="required" />
+            <xs:attribute name="kod_registrace" type="xs:string" use="required" />
+            <xs:attribute name="pohlavi" type="xs:string" use="required" />
+            <xs:attribute name="invalidita" type="xs:string" use="required" />
+            <xs:attribute name="vaha" type="xs:decimal" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

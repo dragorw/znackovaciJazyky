@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Style.xsl"?>
+<formulare 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Semestralni_prace.xsd"
+>
+    <formular cislo ="d1" kod_registrace="RK1" pohlavi ="muž" invalidita="ne" vaha="78">
+            <jmeno>
+                    Pavel
+            </jmeno>            
+            <prijmeni>
+                    Novák
+            </prijmeni>   
+            <titul>
+                    zadny
+            </titul>            
+            <datum_narozeni>
+                    21.7.1991
+            </datum_narozeni>            
+            <rodne_cislo>
+                    960525/0014
+            </rodne_cislo>
+            <narodnost>
+                    Česká
+            </narodnost>            
+            <misto_narozeni>
+                    Praha
+            </misto_narozeni>            
+            <misto_bydliste>
+                    V úvaleh 1, Praha
+            </misto_bydliste>
+            <PSC>
+                    158 00
+            </PSC>
+            <telefon>
+                    7465468489    
+            </telefon>
+             <e-mail>
+                     p.novak@seznam.cz
+            </e-mail>
+            <webova_stranka>
+                        novak.cz
+            </webova_stranka>
+            <ridicsky_prukaz>
+                        ODF454653
+            </ridicsky_prukaz>
+            <pocet_deti>
+                    0
+            </pocet_deti>  
+            <pocet_aut>
+                    1
+            </pocet_aut> 
+            <vzdelani>
+                    Střední škola elektrotechnicka
+            </vzdelani>
+            <zamestnani>
+                    elektrikař
+            </zamestnani>            
+            <plat>
+                    32000
+            </plat>
+
+    </formular>
+
+    <formular cislo="d2" kod_registrace="RK2" pohlavi ="muž" invalidita="ne" vaha="56">    
+            <jmeno>
+                    Tomáš
+            </jmeno>            
+            <prijmeni>
+                    Klínský
+            </prijmeni>            
+            <titul>
+                    Bc.
+            </titul>            
+            <datum_narozeni>
+                    21.7.1995
+            </datum_narozeni>            
+            <rodne_cislo>
+                    960525/0014
+            </rodne_cislo>
+            <narodnost>
+                    Česká
+            </narodnost>            
+            <misto_narozeni>
+                    Praha
+            </misto_narozeni>            
+            <misto_bydliste>
+                    V úvaleh 1, Praha
+            </misto_bydliste>
+            <PSC>
+                    158 00
+            </PSC>
+            <telefon>
+                    7465468489    
+            </telefon>
+             <e-mail>
+                     p.novak@seznam.cz
+            </e-mail>
+            <webova_stranka>
+                        ------
+            </webova_stranka>
+            <ridicsky_prukaz>
+                        ODEF475213
+            </ridicsky_prukaz>
+            <pocet_deti>
+                    0
+            </pocet_deti>            
+            <pocet_aut>
+                    1
+            </pocet_aut>            
+            <vzdelani>
+                    Česká zemědělská univerzita
+            </vzdelani>
+            <zamestnani>
+                    kovář
+            </zamestnani>            
+            <plat>
+                    35000
+            </plat>
+
+    </formular>
+         <formular cislo="d3" kod_registrace="RK3" pohlavi ="žena" invalidita="ne" vaha="67">
+            <jmeno>
+                    Veronika
+            </jmeno>            
+            <prijmeni>
+                    Myslíková
+            </prijmeni>
+            <titul>
+                    žádný
+            </titul>
+            <datum_narozeni>
+                    15.02.1996
+            </datum_narozeni>
+            <rodne_cislo>
+                    960215/0017
+            </rodne_cislo>
+            <narodnost>
+                    Česká
+            </narodnost>
+            <misto_narozeni>
+                    Brno
+            </misto_narozeni>
+            <misto_bydliste>
+                    Strašniská 65, Praha
+            </misto_bydliste>
+            <PSC>
+                    154 01
+            </PSC>
+            <telefon>
+                    7548546589    
+            </telefon>
+             <e-mail>
+                     veronika.m@seznam.cz
+            </e-mail>
+            <webova_stranka>
+                        dVc.com
+            </webova_stranka>
+            <ridicsky_prukaz>
+                        ODEF47544Ff
+            </ridicsky_prukaz>
+            <pocet_deti>
+                    1
+            </pocet_deti>
+            <pocet_aut>
+                    1
+            </pocet_aut>
+            <vzdelani>
+                    Střední umělecká škola Václava Hollara
+            </vzdelani>
+            <zamestnani>
+                    osvč
+            </zamestnani>
+            <plat>
+                    -------
+            </plat>
+     </formular>
+     
+     <formular cislo="d4" kod_registrace="RK4" pohlavi ="muž" invalidita="ano" vaha="78">
+            <jmeno>
+                    Pavlo
+            </jmeno>
+            <prijmeni>
+                    Mozart
+            </prijmeni>
+            <titul>
+                    Ing
+            </titul>
+            <datum_narozeni>
+                    29.11.1985
+            </datum_narozeni>
+            <rodne_cislo>
+                    851129/095
+            </rodne_cislo>
+            <narodnost>
+                    Německá
+            </narodnost>
+            <misto_narozeni>
+                    Bern
+            </misto_narozeni>
+            <misto_bydliste>
+                    Zeleznicka 15
+            </misto_bydliste>
+            <PSC>
+                    188 20
+            </PSC>
+            <telefon>
+                    545456489    
+            </telefon>
+             <e-mail>
+                     p.mozart@adc.de
+            </e-mail>
+            <webova_stranka>
+                        ------
+            </webova_stranka>
+            <ridicsky_prukaz>
+                        5584F21F
+            </ridicsky_prukaz>
+            <pocet_deti>    
+                    1
+            </pocet_deti>
+            <pocet_aut>
+                    2
+            </pocet_aut>
+            <vzdelani>
+                    Česká zemědělská univerzita
+            </vzdelani>
+            <zamestnani>
+                    Zahradník
+            </zamestnani>
+            <plat>
+                    25000
+            </plat>
+     </formular>
+
+     <formular cislo="d5" kod_registrace="RK5" pohlavi ="muž" invalidita="ne" vaha="87">
+            <jmeno>
+                    Marek
+            </jmeno>
+            <prijmeni>
+                    Urban
+            </prijmeni>
+            <titul>
+                    žádný
+            </titul>
+            <datum_narozeni>
+                    02.09.1991
+            </datum_narozeni>
+            <rodne_cislo>
+                    960452/0058
+            </rodne_cislo>
+            <narodnost>
+                    Česká
+            </narodnost>
+            <misto_narozeni>
+                    Strakonice
+            </misto_narozeni>
+            <misto_bydliste>
+                    V Úžlabině 15, Praha
+            </misto_bydliste>
+            <PSC>
+                    147 02
+            </PSC>
+            <telefon>
+                    775824565
+            </telefon>
+             <e-mail>
+                     mara.urban@gmail.com
+            </e-mail>
+            <webova_stranka>
+                        UrbanStrakonice.cz
+            </webova_stranka>
+            <ridicsky_prukaz>
+                        ODEF475213
+            </ridicsky_prukaz>
+            <pocet_deti>
+                    0
+            </pocet_deti>
+            <pocet_aut>
+                    1
+            </pocet_aut>
+            <vzdelani>
+                    Základní škola
+            </vzdelani>
+            <zamestnani>
+                    Uklízeč
+            </zamestnani>
+            <plat>
+                    17000
+            </plat>
+     </formular>
+
+     <formular cislo="d6" kod_registrace="RK6" pohlavi ="muž" invalidita="ne" vaha="96">
+            <jmeno>
+                    Jaroslav
+            </jmeno>
+            <prijmeni>
+                    Černý
+            </prijmeni>
+            <titul>
+                    žádný
+            </titul>
+            <datum_narozeni>
+                    17.03.1972
+            </datum_narozeni>
+            <rodne_cislo>
+                    720317/0250
+            </rodne_cislo>
+            <narodnost>
+                    Česká
+            </narodnost>
+            <misto_narozeni>
+                    Praha
+            </misto_narozeni>
+            <misto_bydliste>
+                    V úvalech 5
+            </misto_bydliste>
+            <PSC>
+                    154 00
+            </PSC>
+            <telefon>
+                    745484684    
+            </telefon>
+             <e-mail>
+                     cerny.ja@seznam.cz
+            </e-mail>
+            <webova_stranka>
+                        ------
+            </webova_stranka>
+            <ridicsky_prukaz>
+                        O7452DEF47
+            </ridicsky_prukaz>
+            <pocet_deti>
+                    2
+            </pocet_deti>
+            <pocet_aut>
+                    2
+            </pocet_aut>
+            <vzdelani>
+                    Střední odborné účeliště stavební
+            </vzdelani>
+            <zamestnani>
+                    Řidič tramvaje
+            </zamestnani>
+            <plat>
+                    28000
+            </plat>
+     </formular>
+
+     <formular cislo="d7" kod_registrace="RK7" pohlavi ="žena" invalidita="ano" vaha="78">
+            <jmeno>
+                    Tereza
+            </jmeno>
+            <prijmeni>
+                    Školníková
+            </prijmeni>
+            <titul>
+                    Bc
+            </titul>
+            <datum_narozeni>
+                    23.12.1997
+            </datum_narozeni>
+            <rodne_cislo>
+                    971223/0225
+            </rodne_cislo>
+            <narodnost>
+                    Česká
+            </narodnost>
+            <misto_narozeni>
+                    Praha
+            </misto_narozeni>
+            <misto_bydliste>
+                    Počernická 98
+            </misto_bydliste>
+            <PSC>
+                    158 07
+            </PSC>
+            <telefon>
+                    54864787468
+            </telefon>
+             <e-mail>
+                     ter_skolka@seznam.cz
+            </e-mail>
+            <webova_stranka>
+                        ------
+            </webova_stranka>
+            <ridicsky_prukaz>
+                        -----
+            </ridicsky_prukaz>
+            <pocet_deti>
+                    0
+            </pocet_deti>
+            <pocet_aut>
+                    0
+            </pocet_aut>
+            <vzdelani>
+                    Vysoká škola zdravotnická
+            </vzdelani>
+            <zamestnani>
+                    student
+            </zamestnani>
+            <plat>
+                    žádný
+            </plat>
+     </formular>
+
+     <formular cislo="d8" kod_registrace="RK8" pohlavi ="muž" invalidita="ne" vaha="78">
+            <jmeno>
+                    Bárbora
+            </jmeno>
+            <prijmeni>
+                    Petrová
+            </prijmeni>
+            <titul>
+                    Ing
+            </titul>
+            <datum_narozeni>
+                    10.07.1996
+            </datum_narozeni>
+            <rodne_cislo>
+                    960710/0123
+            </rodne_cislo>
+            <narodnost>
+                    Česká
+            </narodnost>
+            <misto_narozeni>
+                    Kladno
+            </misto_narozeni>
+            <misto_bydliste>    
+                    Těšínská 65
+            </misto_bydliste>
+            <PSC>
+                    355 00
+            </PSC>
+            <telefon>
+                    776954867
+            </telefon>
+             <e-mail>
+                     dr.bara@seznam.cz
+            </e-mail>
+            <webova_stranka>
+                        ------
+            </webova_stranka>
+            <ridicsky_prukaz>
+                        ODEF745D3
+            </ridicsky_prukaz>
+            <pocet_deti>
+                    0
+            </pocet_deti>
+            <pocet_aut>
+                    1
+            </pocet_aut>
+            <vzdelani>  
+                    Vysoká škola ekonomická
+            </vzdelani>
+            <zamestnani>
+                    student
+            </zamestnani>
+            <plat>
+                    žádné
+            </plat>
+     </formular>
+
+     <formular cislo="d9" kod_registrace="RK9" pohlavi ="muž" invalidita="ne" vaha="78">
+            <jmeno>
+                    Petr
+            </jmeno>
+            <prijmeni>
+                    Ligr
+            </prijmeni>
+            <titul>
+                    Bc
+            </titul>
+            <datum_narozeni>
+                    30.10.1966
+            </datum_narozeni>
+            <rodne_cislo>
+                    661030/012
+            </rodne_cislo>
+            <narodnost>
+                    Česká
+            </narodnost>
+            <misto_narozeni>
+                    Ostrava
+            </misto_narozeni>
+            <misto_bydliste>
+                    Výstavní 125
+            </misto_bydliste>
+            <PSC>
+                    178 021
+            </PSC>
+            <telefon>
+                    74768486
+            </telefon>
+             <e-mail>
+                     p.ligr@seznam.cz
+            </e-mail>
+            <webova_stranka>
+                        woow.cz
+            </webova_stranka>
+            <ridicsky_prukaz>
+                        ODEF475213
+            </ridicsky_prukaz>
+            <pocet_deti>
+                    1
+            </pocet_deti>
+            <pocet_aut>
+                    0
+            </pocet_aut>
+            <vzdelani>
+                    Vysoká škola báňská
+            </vzdelani>
+            <zamestnani>
+                    technik v elektrárně
+            </zamestnani>
+            <plat>
+                    38000
+            </plat>
+     </formular>
+
+     <formular cislo="d10" kod_registrace="RK10" pohlavi ="muž" invalidita="ne" vaha="69">
+            <jmeno>
+                    Vojtěch
+            </jmeno>
+            <prijmeni>
+                    Pavlíček
+            </prijmeni>
+            <titul>
+                    žádný
+            </titul>
+            <datum_narozeni>
+                    20.01.1950
+            </datum_narozeni>
+            <rodne_cislo>
+                    500120/045
+            </rodne_cislo>
+            <narodnost>
+                    Česká
+            </narodnost>
+            <misto_narozeni>
+                    Praha
+            </misto_narozeni>
+            <misto_bydliste>
+                    K brarrandovu 20
+            </misto_bydliste>
+            <PSC>
+                    258 04
+            </PSC>
+            <telefon>
+                    7468413547    
+            </telefon>
+             <e-mail>
+                     pav.vojta@seznam.cz
+            </e-mail>
+            <webova_stranka>
+                        ------
+            </webova_stranka>
+            <ridicsky_prukaz>
+                        486486FdF
+            </ridicsky_prukaz>
+            <pocet_deti>
+                    3
+            </pocet_deti>
+            <pocet_aut>
+                    1
+            </pocet_aut>
+            <vzdelani>
+                    zedník
+            </vzdelani>
+            <zamestnani>
+                    důchod
+            </zamestnani>
+            <plat>
+                    žádné
+            </plat>
+     </formular>
+</formulare>
