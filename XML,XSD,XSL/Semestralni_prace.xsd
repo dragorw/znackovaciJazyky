@@ -11,7 +11,7 @@
               <xs:element name="jmeno" type="xs:string" />
               <xs:element name="prijmeni" type="xs:string" />
               <xs:element name="titul" type="xs:string" />
-              <xs:element name="datum_narozeni" type="xs:date" />
+              <xs:element name="datum_narozeni" type="xs:string" />
               <xs:element name="rodne_cislo" type="xs:string" />
               <xs:element name="narodnost" type="xs:string" />
               <xs:element name="misto_narozeni" type="xs:string" />
@@ -25,7 +25,7 @@
               <xs:element name="pocet_aut" type="xs:decimal" />
               <xs:element name="vzdelani" type="xs:string" />
               <xs:element name="zamestnani" type="xs:string" />
-              <xs:element name="plat" type="xs:decimal" />
+              <xs:element name="plat" type="xs:string" />
             </xs:sequence>
             <xs:attribute name="cislo" type="xs:string" use="required" />
             <xs:attribute name="kod_registrace" type="xs:string" use="required" />
